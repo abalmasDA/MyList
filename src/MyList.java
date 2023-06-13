@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class MyList {
+public class MyList<E> {
+
+
+
 }
